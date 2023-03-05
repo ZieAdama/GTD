@@ -1,0 +1,17 @@
+
+
+-LARAVEL
+
+-REACTJS
+
+-REACT NATIVE
+
+-INERTIAJS
+
+-GRAPHQL
+
+-DOCKER
+
+
+
+
